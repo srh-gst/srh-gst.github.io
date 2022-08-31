@@ -10,8 +10,9 @@ redirect_from:
 
 Hey, thanks for stopping by! 👋
 
-I am a doctoral candidate at Munich University, a junior economist at the ifo Institute, 
-and a visiting scholar at Stanford's Hoover Institution.
+I am a doctoral candidate at [Munich University](https://www.lmu.de/en/index.html), 
+a junior economist at the [ifo Institute](https://www.ifo.de/en), 
+and a visiting scholar at [Stanford's Hoover Institution](https://www.hoover.org/).
 
 My research interests are economics of education and labor economics. 
 
