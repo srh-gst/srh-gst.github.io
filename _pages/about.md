@@ -17,13 +17,13 @@ and a visiting scholar at [Stanford's Hoover Institution](https://www.hoover.org
 My research interests are economics of education and labor economics. 
 
 
-## News
+## news
 
-I will visit Stanford's Hoover Institution from September 26 to November 18
+I will visit Stanford's Hoover Institution from September 26 to November 18, 2022
 
-## Upcoming Presentations 
+## upcoming presentations 
 
-[EALE](https://eale.nl/)  in Padova September 8-10,2022
+[EALE](https://eale.nl/)  in Padova September 8-10, 2022
 
 [VfS Annual Conference](https://www.socialpolitik.de/de/termin/jahrestagung-2022) 
 in Basel September 11-14, 2022
