@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, thanks for stopping by! 👋
+Hey, thanks for stopping by!
 
 I am a doctoral candidate at [Munich University](https://www.lmu.de/en/index.html), 
 a junior economist at the [ifo Institute](https://www.ifo.de/en), 
@@ -20,19 +20,17 @@ My research interests are economics of education, labor economics, and political
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_June_22.pdf).
 
 
-## news <i class="fas fa-newspaper"></i> 
+### news <i class="fas fa-newspaper"></i> 
 I will visit Stanford's Hoover Institution as a [CESifo](https://www.cesifo.org/en) young ambassador 
-<i class="fa-solid fa-calendar-days"></i> `September 26 to November 18, 2022`. 
+📅`September 26 to November 18, 2022`. 
 
-## you can meet me here  <i class="fa-solid fa-person-chalkboard"></i>
+### meet me here  <i class="fa-solid fa-person-chalkboard"></i>
 
-- [EALE Conference](https://eale.nl/) <i class="fa-solid fa-location-dot"></i>
-`Padova` <i class="fa-solid fa-calendar-days"></i> `September 8-10, 2022`
+- [EALE Conference](https://eale.nl/) 📌`Padova` 📅`September 8-10, 2022`
 - [VfS Annual Conference](https://www.socialpolitik.de/de/termin/jahrestagung-2022) 
-<i class="fa-solid fa-location-pin"></i> `Basel` <i class="fa-solid fa-calendar-days"></i> 
-`September 11-14, 2022`
+📌`Basel` 📅`September 11-14, 2022`
 
-## research 
+### research 
 
 - **Global Universal Basic Skills: Current State and Implications for 
 World Development** (with [Eric A. Hanushek](http://hanushek.stanford.edu/)
