@@ -15,7 +15,7 @@ a junior economist at the [ifo Institute](https://www.ifo.de/en),
 and a visiting scholar at [Stanford's Hoover Institution](https://www.hoover.org/).
 
 
-My research interests are **economics of education, labor economics, and political economy**.
+My research interests are economics of education, labor economics, and political economy.
 
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_June_22.pdf).
 
