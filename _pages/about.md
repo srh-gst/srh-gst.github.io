@@ -15,20 +15,22 @@ a junior economist at the [ifo Institute](https://www.ifo.de/en),
 and a visiting scholar at [Stanford's Hoover Institution](https://www.hoover.org/).
 
 
-My research interests are economics of education, labor economics, and political economy.
+My research interests are **economics of education, labor economics, and political economy**.
 
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_June_22.pdf).
 
 
 ## news <i class="fas fa-newspaper"></i> 
 I will visit Stanford's Hoover Institution as a [CESifo](https://www.cesifo.org/en) young ambassador 
-from September 26 to November 18, 2022. 
+<i class="fa-solid fa-calendar-days"></i> `September 26 to November 18, 2022`. 
 
-## you can meet me here  
+## you can meet me here  <i class="fa-sharp fa-solid fa-presentation-screen"></i> 
 
-- [EALE Conference](https://eale.nl/)  in Padova September 8-10, 2022
+- [EALE Conference](https://eale.nl/)  <i class="fa-solid fa-location-pin"></i> 
+`Padova` <i class="fa-solid fa-calendar-days"></i> `September 8-10, 2022`
 - [VfS Annual Conference](https://www.socialpolitik.de/de/termin/jahrestagung-2022) 
-in Basel September 11-14, 2022
+<i class="fa-solid fa-location-pin"></i> `Basel` <i class="fa-solid fa-calendar-days"></i> 
+`September 11-14, 2022`
 
 ## research 
 
