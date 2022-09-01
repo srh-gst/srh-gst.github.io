@@ -24,9 +24,9 @@ You can find my CV [here](http://srh-gst.github.io/files/gust_CV_June_22.pdf).
 I will visit Stanford's Hoover Institution as a [CESifo](https://www.cesifo.org/en) young ambassador 
 <i class="fa-solid fa-calendar-days"></i> `September 26 to November 18, 2022`. 
 
-## you can meet me here  <i class="fa-sharp fa-solid fa-presentation-screen"></i> 
+## you can meet me here  <i class="fa-solid fa-person-chalkboard"></i>
 
-- [EALE Conference](https://eale.nl/)  <i class="fa-solid fa-location-pin"></i> 
+- [EALE Conference](https://eale.nl/) <i class="fa-solid fa-location-dot"></i>
 `Padova` <i class="fa-solid fa-calendar-days"></i> `September 8-10, 2022`
 - [VfS Annual Conference](https://www.socialpolitik.de/de/termin/jahrestagung-2022) 
 <i class="fa-solid fa-location-pin"></i> `Basel` <i class="fa-solid fa-calendar-days"></i> 
