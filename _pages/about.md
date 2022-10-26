@@ -21,20 +21,20 @@ You can find my CV [here](http://srh-gst.github.io/files/gust_CV_June_22.pdf).
 
 
 ### news <i class="fas fa-newspaper"></i> 
-I will visit Stanford's Hoover Institution as a [CESifo](https://www.cesifo.org/en) young ambassador 
+I will visit Stanford as a [CESifo](https://www.cesifo.org/en) young ambassador 
 📅`September 26 to November 18, 2022`. 
 
 ### meet me here  <i class="fa-solid fa-person-chalkboard"></i>
 
-- [EALE Conference](https://eale.nl/) 📌`Padova` 📅`September 8-10, 2022`
-- [VfS Annual Conference](https://www.socialpolitik.de/de/termin/jahrestagung-2022) 
-📌`Basel` 📅`September 11-14, 2022`
+- [ASSA 2023 Annual Meeting](https://www.aeaweb.org/conference/) 📌`New Orleans` 📅`January 6-8, 2023`
+
 
 ### research 
 
-- **Global Universal Basic Skills: Current State and Implications for 
-World Development** (with [Eric A. Hanushek](http://hanushek.stanford.edu/)
-and [Ludger Woessmann](https://sites.google.com/view/woessmann-e)), draft in preparation
+- **Global Universal Basic Skills: Current Deficits and Implications for World Development** (with [Eric A. Hanushek](http://hanushek.stanford.edu/)
+and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
+[NBER working paper](https://www.nber.org/papers/w30566)
+[IZA discussion paper](https://docs.iza.org/dp15648.pdf)
 - **The Austrian Pay Transparency Law and the Gender Pay Gap** 
 (with [René Boeheim](https://www.jku.at/en/department-of-economics/team/rene-boeheim/))
 [IZA discussion paper](https://docs.iza.org/dp14206.pdf),
