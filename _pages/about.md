@@ -11,23 +11,17 @@ redirect_from:
 Hey, thanks for stopping by!
 
 I am a doctoral candidate at [Munich University](https://www.lmu.de/en/index.html), 
-a junior economist at the [ifo Institute](https://www.ifo.de/en), 
-and a visiting scholar at [Stanford's Hoover Institution](https://www.hoover.org/).
-
+a junior economist at the [ifo Institute](https://www.ifo.de/en). I visited Stanford in 2022. 
 
 My research interests are economics of education, labor economics, and political economy.
 
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_June_22.pdf).
 
 
-### news <i class="fas fa-newspaper"></i> 
-I will visit Stanford as a [CESifo](https://www.cesifo.org/en) young ambassador 
-📅`September 26 to November 18, 2022`. 
-
 ### meet me here  <i class="fa-solid fa-person-chalkboard"></i>
 
-- [ASSA 2023 Annual Meeting](https://www.aeaweb.org/conference/) 📌`New Orleans` 📅`January 6-8, 2023`
-
+- [EEA Congress](https://www.eea-esem-congresses.org/) 📌`Barcelona` 📅`August 28- September 1, 2023`
+- [VfS Annual Meeting](https://www.socialpolitik.de/en/termin/jahrestagung-2023) 📌`Regensburg` 📅`September 24-27, 2023
 
 ### research 
 
