@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[Download CV here](http://srh-gst.github.io/files/gust_CV_June_22.pdf)
+[Download CV here](http://srh-gst.github.io/files/gust_short_March_2024.pdf)
