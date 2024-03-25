@@ -10,10 +10,16 @@ redirect_from:
 
 Hey, thanks for stopping by!
 
-I am a doctoral candidate at [Munich University](https://www.lmu.de/en/index.html), 
-a junior economist at the [ifo Institute](https://www.ifo.de/en). I visited Stanford in 2022. 
+Diving into big, complex data is where the fun begins for me!
+
+As a doctoral candidate at [Munich University](https://www.lmu.de/en/index.html) and 
+junior economist at the [ifo Institute](https://www.ifo.de/en), I have deep understanding of economic principles and excellent analytical skills. One of my highlights during my PhD was visiting Stanford in 2022. 
+
+With a passion for teamwork and innovation, coupled with a deep-dive mentality, I am dedicated to turning numbers into actionable insights that have real-world impact.
 
 My research interests are economics of education, development economics, and labor economics.
+
+
 
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_short_Nov_2023.pdf).
 
@@ -27,7 +33,7 @@ You can find my CV [here](http://srh-gst.github.io/files/gust_CV_short_Nov_2023.
 
 - **Global Universal Basic Skills: Current Deficits and Implications for World Development** (with [Eric A. Hanushek](http://hanushek.stanford.edu/)
 and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
-forthcoming in [Journal for Development Economics](https://authors.elsevier.com/c/1i7UZ_6wyKpd01),
+ in [Journal for Development Economics 166 (2024): 103205.](https://authors.elsevier.com/c/1i7UZ_6wyKpd01),
 [tweet](https://twitter.com/sarages/status/1726882189554352410),
 [VOXEU Column](https://cepr.org/voxeu/columns/world-unprepared-missing-skills-development),
 covered in [Spiegel](https://www.spiegel.de/panorama/bildung/ifo-studie-zeigt-bildungsluecken-bei-schuelerinnen-und-schuelern-a-528e1009-e9c5-483b-a630-2937a9c95767), 
