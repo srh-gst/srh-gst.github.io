@@ -17,10 +17,6 @@ junior economist at the [ifo Institute](https://www.ifo.de/en), I have deep unde
 
 With a passion for teamwork and innovation, coupled with a deep-dive mentality, I am dedicated to turning numbers into actionable insights that have real-world impact.
 
-My research interests are economics of education, development economics, and labor economics.
-
-
-
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_short_Nov_2023.pdf).
 
 
@@ -30,6 +26,9 @@ You can find my CV [here](http://srh-gst.github.io/files/gust_CV_short_Nov_2023.
 - [VfS Annual Meeting](https://www.socialpolitik.de/en/termin/jahrestagung-2023) 📌`Regensburg` 📅`September 24-27, 2023`
 
 ### Research 
+
+My research interests include economics of education, development economics, and labor economics.
+
 
 - **Global Universal Basic Skills: Current Deficits and Implications for World Development** (with [Eric A. Hanushek](http://hanushek.stanford.edu/)
 and [Ludger Woessmann](https://sites.google.com/view/woessmann-e))
