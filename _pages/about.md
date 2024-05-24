@@ -15,19 +15,19 @@ Diving into big, complex data is where the fun begins for me!
 As a doctoral candidate at [Munich University](https://www.lmu.de/en/index.html) and 
 junior economist at the [ifo Institute](https://www.ifo.de/en), I have deep understanding of economic principles and excellent analytical skills. One of my highlights during my PhD was visiting Stanford in 2022. 
 
-With a passion for teamwork and innovation, coupled with a deep-dive mentality, I am dedicated to turning numbers into actionable insights that have real-world impact.
+With a passion for teamwork and innovation, I am dedicated to turning numbers into actionable insights that have real-world impact.
 
 You can find my CV [here](http://srh-gst.github.io/files/gust_CV_short_Nov_2023.pdf).
 
-
+<!----
 ### Meet me here  <i class="fa-solid fa-person-chalkboard"></i>
 
 - [EEA Congress](https://www.eea-esem-congresses.org/) 📌`Barcelona` 📅`August 28- September 1, 2023`
 - [VfS Annual Meeting](https://www.socialpolitik.de/en/termin/jahrestagung-2023) 📌`Regensburg` 📅`September 24-27, 2023`
-
+--->
 ### Research 
 
-My research interests include economics of education, development economics, and labor economics.
+My research interests include economics of education, labor economics, and development economics.
 
 
 - **Global Universal Basic Skills: Current Deficits and Implications for World Development** (with [Eric A. Hanushek](http://hanushek.stanford.edu/)
@@ -50,5 +50,5 @@ and [CESifo Forum](https://www.cesifo.org/de/publikationen/2022/aufsatz-zeitschr
 [Larissa Zierow](https://sites.google.com/view/larissa-zierow/home), 
 [Marcel Helbig](https://www.uni-erfurt.de/erziehungswissenschaftliche-fakultaet/fakultaet/profil/fachgebiete-und-professuren/erziehungswissenschaft-und-empirische-bildungsforschung/bildung-und-soziale-ungleichheit/prof-dr-marcel-helbig),
 and [Norbert Sendzik](https://www.wzb.eu/en/persons/norbert-sendzik)), work in progress
-- **The Effect of Natural Disasters on Students and Schools**, work in progress
+- **(Not) Going to School in Times of Climate Change**, work in progress
 
